@@ -1,0 +1,18 @@
+package com.yxj.service;
+
+import org.springframework.stereotype.Service;
+
+import com.yxj.pojo.TbItem;
+
+@Service
+public class ItemServiceImpl implements ItemService {
+
+	@Override
+	public TbItem getItemById(long itemId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	
+
+}

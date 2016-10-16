@@ -1,0 +1,14 @@
+package com.yxj.controller;
+
+import org.springframework.stereotype.Controller;
+
+/**
+ * 页面跳转
+ * @author Administrator
+ *
+ */
+
+@Controller
+public class pageController {
+
+}

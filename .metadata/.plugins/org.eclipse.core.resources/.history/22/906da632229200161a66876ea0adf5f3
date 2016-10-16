@@ -1,0 +1,12 @@
+package com.yxj.controller;
+
+import org.springframework.stereotype.Controller;
+
+import com.yxj.service.ItemService;
+
+@Controller
+public class ItemController {
+	
+	private ItemService itemService;
+
+}

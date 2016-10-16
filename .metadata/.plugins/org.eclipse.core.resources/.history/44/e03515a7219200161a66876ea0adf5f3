@@ -1,0 +1,29 @@
+package com.yxj.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.yxj.mapper.TbItemMapper;
+import com.yxj.pojo.TbItem;
+import com.yxj.pojo.TbItemExample;
+import com.yxj.pojo.TbItemExample.Criteria;
+
+@Service
+public class ItemServiceImpl implements ItemService {
+	
+	@Autowired
+	private TbItemMapper itemMapper;
+
+	@Override
+	public TbItem getItemById(long itemId) {
+		//TbItem item = itemMapper.selectByPrimaryKey(itemId);
+		TbItemExample example = new TbItemExample();
+		Criteria criteria = example.createCriteria();
+		criteria.andIdEqualTo(itemId);
+		List<TbItem> list = itemMapper.selectByExample(example);
+		return null;
+	}
+	
+	
+
+}

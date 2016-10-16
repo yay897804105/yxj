@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;mall-manager/mall-manager-server&apos; to &apos;mall-manager-service&apos;" description="Rename resource &apos;mall-manager-server&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="mall-manager-server" name="mall-manager-service" stamp="1476177426358" updateReferences="true"/>
+</session>

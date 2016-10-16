@@ -1,0 +1,11 @@
+package com.yxj.service;
+
+import org.springframework.stereotype.Service;
+
+import com.yxj.pojo.TbItem;
+
+public interface ItemService {
+	
+	public TbItem getItemById(long itemId);
+
+}

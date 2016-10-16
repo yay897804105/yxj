@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="http://www.springframework.org/schema/util/spring-util-4.0.xsd" uri="file:///F:/yxj/spring%20mvc%20mybatis%20redis%20solr%20nginx%20项目实战源码讲义视频/02.第二天（框架整合，后台系统搭建）/01.参考资料/spring约束/spring-util-4.0.xsd"/>
+  <system systemId="http://www.springframework.org/schema/beans/spring-beans-4.0.xsd" uri="file:///F:/yxj/spring%20mvc%20mybatis%20redis%20solr%20nginx%20项目实战源码讲义视频/02.第二天（框架整合，后台系统搭建）/01.参考资料/spring约束/spring-beans-4.0.xsd"/>
+  <system systemId="http://www.springframework.org/schema/aop/spring-aop-4.0.xsd" uri="file:///F:/yxj/spring%20mvc%20mybatis%20redis%20solr%20nginx%20项目实战源码讲义视频/02.第二天（框架整合，后台系统搭建）/01.参考资料/spring约束/spring-aop-4.0.xsd"/>
+  <system systemId="http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd" uri="file:///F:/yxj/spring%20mvc%20mybatis%20redis%20solr%20nginx%20项目实战源码讲义视频/02.第二天（框架整合，后台系统搭建）/01.参考资料/spring约束/spring-mvc-4.0.xsd"/>
+  <system systemId="http://www.springframework.org/schema/tx/spring-tx-4.0.xsd" uri="file:///F:/yxj/spring%20mvc%20mybatis%20redis%20solr%20nginx%20项目实战源码讲义视频/02.第二天（框架整合，后台系统搭建）/01.参考资料/spring约束/spring-tx-4.0.xsd"/>
+  <system systemId="http://www.springframework.org/schema/context/spring-context-4.0.xsd" uri="file:///F:/yxj/spring%20mvc%20mybatis%20redis%20solr%20nginx%20项目实战源码讲义视频/02.第二天（框架整合，后台系统搭建）/01.参考资料/spring约束/spring-context-4.0.xsd"/>
+</catalog>

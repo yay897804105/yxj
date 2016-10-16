@@ -1,0 +1,8 @@
+package com.yxj.service;
+import com.yxj.pojo.TbItem;
+
+public interface ItemService {
+	
+	public int getItemById(long itemId);
+
+}
